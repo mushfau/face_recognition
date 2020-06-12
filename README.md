@@ -12,12 +12,12 @@ Prior to saving the images, the images will go through the following step.
 
 - convert to grayscale
 - find the face(s) in the image
-- cut the face area based on the bouding box
+- cut the face area based on the bounding box
 - remove a 20% margin around the face area, this is to remove the possible noise
 - histogram equialization to normalize the pixel intensity
 - resize the image to 50 x 50 
 
-If a face is detected, the output window will show the red colored bouding box around the detected faces(s)
+If a face is detected, the output window will show the bounding box around the detected faces(s)
 
 
 
