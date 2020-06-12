@@ -1,4 +1,4 @@
-## Face Recognition with Python & TensorFlow
+## Face Recognition in Python with TensorFlow & OpenCV 
 
 ### How to run the application
 
